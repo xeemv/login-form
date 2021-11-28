@@ -9,34 +9,43 @@
     <link rel="stylesheet" type="text/js" href="login.js">
     <img src="https://github.com/xeemv/login-form/blob/main/images/mountain.jpg" alt="mountain">
 </head>
-<body>
-    <div class="Hero">
-        <div class="form-box">
-            <div class="button-box">
-                <div id="btn"></div>
-                <button type="button" class="toggle-btn" onclick="Login()">Log in<button>
-                <button type="button" class="toggle-btn"onclick="Register()">Register</button>
+ <body>
+        <style>
+            body{
+                background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./images/mountain.jpg);
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+                background-size: cover;
+                position: center;
+            }
+        </style>
+        <div class="Hero"> 
+            <div class="form-box">
+                <div class="button-box">
+                    <div id="btn"></div>
+                    <button type="button" class="toggle-btn" onclick="Login()">Login<button>
+                    <button type="button" class="toggle-btn" onclick="Register()">Register</button>
+                </div>
+        <div class="social-icons">
+                    <a href="https://www.facebook.com/"><img src="./images/fb.png"></a>
+                    <a href="https://twitter.com/"><img src="./images/tw.png"></a>
+                    <a href="https://www.google.com/"><img src="./images/gp.png"></a>
+                </div>
+                <form id="Login" class="input-group">
+                    <input type="text" class="input-field" placeholder="User ID" required>
+                    <input type="text" class="input-field" placeholder="Enter Password" required>
+                    <input type="checkbox" class="check-box"><span>Remember Password</span>
+                    <button type="submit" class="submit-btn">Login</button>
+                    </form>
+                <form id="Register" class="input-group">
+                    <input type="text" class="input-field" placeholder="User ID" required>
+                    <input type="email" class="input-field" placeholder="Email ID" required>
+                    <input type="text" class="input-field" placeholder="Enter Password" required>
+                    <input type="checkbox" class="check-box"><span>I agree to the terms and conditions</span>
+                    <button type="submit" class="submit-btn">Register</button>
+                    </form>
+                </div>
             </div>
-                <div class="social-icons">
-                <a href="https://www.facebook.com/"><img src="https://github.com/xeemv/login-form/blob/main/images/fb.png"></a>
-                <a href="https://twitter.com/"><img src="https://github.com/xeemv/login-form/blob/main/images/tw.png"></a>
-                <a href="https://www.google.com/"><img src="https://github.com/xeemv/login-form/blob/main/images/gp.png"></a>
-            </div>
-            <form id="Log in" class="input-group">
-                <input type="text" class="input-field" placeholder="User ID" required>
-                <input type="text" class="input-field" placeholder="Enter Password" required>
-                <input type="checkbox" class="check-box"><span>Remember Password</span>
-                <button type="submit" class="submit-btn">Login</button>
-                </form>
-            <form id="Register" class="input-group">
-                <input type="text" class="input-field" placeholder="User ID" required>
-                <input type="email" class="input-field" placeholder="Email ID" required>
-                <input type="text" class="input-field" placeholder="Enter Password" required>
-                <input type="checkbox" class="check-box"><span>I agree to the terms and conditions</span>
-                <button type="submit" class="submit-btn">Register</button>
-                </form>
-            </div>
-        </div>
       
     </div>
 
