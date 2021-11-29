@@ -157,7 +157,7 @@ Project Link: [https://xeemv.github.io/login-form/](https://xeemv.github.io/logi
 ## Acknowledgments
 
 * []()<a href="https://lnkd.in/eSmvp9Hc">How To Make Login & Registration Form Using HTML And CSS Step By Step</a>
-* []()<a href="https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp">How to Toggle Between Hiding and Showing an element></a>
+* []()<a href="https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp">How to Toggle Between Hiding and Showing an element</a>
 * []()
 
 <p align="right">(<a href="#top">back to top</a>)</p>
