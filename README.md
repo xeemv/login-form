@@ -1,2 +1,2 @@
 # login-form
-https://www.youtube.com/watch?v=L5WWrGMsnpw
+Project inspiration came from Easy Tutorials on YouTube (url: https://www.youtube.com/watch?v=L5WWrGMsnpw)
