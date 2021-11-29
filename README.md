@@ -83,10 +83,12 @@ This is an example of how to list things you need to use the software and how to
 <!--USAGE EXAMPLES-->
 ## Usage
 What worked and things to remember: 
-'''html
-<button type="button" class="toggle-btn" onclick="Login()">Login<button> ''' 
+- '''
+< button type="button" class="toggle-btn" onclick="Login()">Login< /button> ''' 
 > This function allows the toggle to switch between Login and Register via the "onclick" element. Will need to set up JS file with functions and vars.
-
+- '''
+< script language="javascript" type="text/javascript" src="./login.js"></script> 
+> How to link the .js file to your .html file
 
 <p align="right">(<a href="#top">back to top</a>)</p> 
 
@@ -138,8 +140,7 @@ I am starting week 1 of my Front End Software Development boot camp program at <
 What I had to figure out during this challenge was: how to place my background image to correctly match up with the video, figure out where I went wrong since my toggle switch was not shifting from Login to Register, and to link my JavaScript file to my HTML correctly.
 <p>Attention to details is so important; that was how I realized I made an error using both "Login" and "Log In" in two different areas of my HTML file or not capitalizing "register". All these little things are still a good reminder to be extra careful and double check my work going forward in my boot camp.
 </p>
-The toggle button really helped me to understand how JavaScript plays an important role with websites and applications. As well as how JavaScript helps with data structure and the interactive response of websites, games, or when building web/mobile applications.
-<br>
+<p>The toggle button really helped me to understand how JavaScript plays an important role with websites and applications. As well as how JavaScript helps with data structure and the interactive response of websites, games, or when building web/mobile applications.</p>
 <p>I included a few more form ID element code line to the Register section vs what the content creator had on his video. Icons are hyperlink to their own social media home pages. Registeration form does not save data at this time as a new project will need to be created for that form and linked back to this project. </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
