@@ -83,12 +83,28 @@ This is an example of how to list things you need to use the software and how to
 <!--USAGE EXAMPLES-->
 ## Usage
 What worked and things to remember: 
-- '''
-< button type="button" class="toggle-btn" onclick="Login()">Login< /button> ''' 
+-
+    < button type="button" class="toggle-btn" onclick="Login()">Login< /button> 
 > This function allows the toggle to switch between Login and Register via the "onclick" element. Will need to set up JS file with functions and vars.
-- '''
-< script language="javascript" type="text/javascript" src="./login.js"></script> 
-> How to link the .js file to your .html file
+-
+    < script language="javascript" type="text/javascript" src="./login.js"></script> 
+> How to link the .js file to your .html file.
+- 
+    .form-box{ 
+    width: 350px;
+    height: 680px;
+    position: relative;
+    margin: 6% auto;
+    background: #fff;
+    padding: 5px;
+   overflow: hidden;
+   }
+ > CSS style to adjust the height if you add more lines to either the Login form or Register form. This is the box will store all the user information required to access your future page.
+
+
+
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p> 
 
