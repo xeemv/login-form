@@ -129,7 +129,8 @@ Don't forget to give the project a star! Thanks again!
  What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.-->
  
 ## Motivation and Learning
-I am starting week 1 of my Front End Software Development boot camp program at <a href="https://www.promineotech.com/">Promineo Tech</a>. We are focusing on JavaScript for the next few weeks. Since I worked ahead on this week's material, I wanted to challenge myself to build a simple Login and Registration form as a personal project.  I came across a tutorial on YouTube created in September 2019, by Easy Tutorial, (<a href="https://lnkd.in/eSmvp9Hc">How To Make Login & Registration Form Using HTML And CSS Step By Step</a>) that caught my attention due to the UI appearance. I wanted something that looked pleasant to the user and not simple or plain; this content creator provided me with that while keeping the tutorial under 20 minutes. 
+I am starting week 1 of my Front End Software Development boot camp program at <a href="https://www.promineotech.com/">Promineo Tech</a>. We are focusing on JavaScript for the next few weeks. Since I worked ahead on this week's material, I wanted to challenge myself to build a simple Login and Registration form as a personal project.  
+<p>I came across a tutorial on YouTube created in September 2019, by Easy Tutorial, (<a href="https://lnkd.in/eSmvp9Hc">How To Make Login & Registration Form Using HTML And CSS Step By Step</a>) that caught my attention due to the UI appearance. I wanted something that looked pleasant to the user and not simple or plain; this content creator provided me with that while keeping the tutorial under 20 minutes.</p> 
 
 I have learned my lesson not to start a "simple" project at 10PM going forward. I was up until 2:30AM trying to figure out what I was doing wrong via Googling. And spent most of today weeding through my code and the tutorial slowly.
 
