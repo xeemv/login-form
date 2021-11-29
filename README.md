@@ -87,7 +87,7 @@ What worked and things to remember:
     < button type="button" class="toggle-btn" onclick="Login()">Login< /button> 
 > This function allows the toggle to switch between Login and Register via the "onclick" element. Will need to set up JS file with functions and vars.
 -
-    < script language="javascript" type="text/javascript" src="./login.js"></script> 
+    < script language="javascript" type="text/javascript" src="./login.js">< /script> 
 > How to link the .js file to your .html file.
 - 
     .form-box{ 
@@ -99,7 +99,7 @@ What worked and things to remember:
     padding: 5px;
    overflow: hidden;
    }
- > CSS style to adjust the height if you add more lines to either the Login form or Register form. This is the box will store all the user information required to access your future page.
+> CSS style to adjust the height if you add more lines to either the Login form or Register form. This is the box will store all the user information required to access your future page.
 
 
 
