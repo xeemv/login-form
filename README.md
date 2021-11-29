@@ -1,9 +1,18 @@
 # Project's Title: Login-form
-This is a landing page that requires users to login or register in order to proceed.
+This is a landing page that requires users to login or register in order to proceed using standard HTML, CSS, and a small JavaScript file (to assist with the toggle switch from Login to Register).
+
+#Prerequisites:
+
+#Table of contents:
+*Readme.md
+*index.html
+*style.css
+*login
+
 
 
 Project inspiration came from Easy Tutorials on YouTube (url: https://www.youtube.com/watch?v=L5WWrGMsnpw)
-This project includes HTML, CSS, and a small JavaScript file (to assist with the toggle switch from Login to Register).
+This project includes HTML, CSS, and .
 I did include a few more form ID element code line to the Register section vs what the content creator had on his video.
 
     What was your motivation?
