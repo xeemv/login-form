@@ -23,7 +23,8 @@
     <!--<li><a href="#usage">Usage</a></li>-->
     <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <!--<li><a href="#contributing">Contributing</a></li>-->
-    <li><a href="#license">License</a></li>
+   <!-- <li><a href="#license">License</a></li>-->
+    <li><a href="#Motivation">Motivation</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -120,13 +121,22 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>-->
 
+<!-- Motivation
+ What was your motivation?
+ Why did you build this project?
+ What problem does it solve?
+ What did you learn?
+ What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.-->
+ 
+## Motivation
+I am starting week 1 of my Front End Software Development boot camp program at <a href="https://www.promineotech.com/">Promineo Tech</a>. We will be focusing on JavaScript for the next few weeks. I worked ahead on this week's material and wanted to challenge myself to build a simple Login and Registration form.  I came across a tutorial on YouTube that caught my attention due to the UI appearance. I wanted something that looked pleasant to the user and not simple or plain; this content creator provided me with that while keeping the tutorial under 20 minutes. 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - Xee M. V. - xeeyang08@gmail.com
+Xee M. V. - xeeyang08@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://xeemv.github.io/login-form/](https://xeemv.github.io/login-form/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -141,11 +151,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
- What was your motivation?
-    Why did you build this project?
-    What problem does it solve?
-    What did you learn?
-    What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.
+
 
 
 
