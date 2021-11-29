@@ -128,7 +128,7 @@ Don't forget to give the project a star! Thanks again!
  What did you learn?
  What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.-->
  
-## Motivation and Learning
+### Motivation and Learning
 I am starting week 1 of my Front End Software Development boot camp program at <a href="https://www.promineotech.com/">Promineo Tech</a>. We are focusing on JavaScript for the next few weeks. Since I worked ahead on this week's material, I wanted to challenge myself to build a simple Login and Registration form.  I came across a tutorial on YouTube created in September 2019, by Easy Tutorial, (<a href="https://lnkd.in/eSmvp9Hc">How To Make Login & Registration Form Using HTML And CSS Step By Step</a>) that caught my attention due to the UI appearance. I wanted something that looked pleasant to the user and not simple or plain; this content creator provided me with that while keeping the tutorial under 20 minutes. 
  
 I included a few more form ID element code line to the Register section vs what the content creator had on his video. Icons are hyperlink to their own social media home pages. Registeration form does not save data at this time as a new project will need to be created for that form and linked back to this project. 
