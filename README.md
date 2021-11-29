@@ -1,5 +1,8 @@
-# Project's Title: Login-form
 <div id="top"></div>
+
+# Project's Title: Login-form
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -10,16 +13,16 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
+    <!--<li>
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation">Installation</a></li>-->
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <!--<li><a href="#usage">Usage</a></li>-->
+    <!--<li><a href="#roadmap">Roadmap</a></li>-->
+    <!--<li><a href="#contributing">Contributing</a></li>-->
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -28,12 +31,9 @@
 
 <!-- Introduction ABOUT THE PROJECT -->
 # Introduction:
-This is a landing page that requires users to login or register in order to proceed using standard HTML, CSS, and a small JavaScript file (to assist with the toggle switch from Login to Register). This project inspiration came from Easy Tutorials on YouTube (url: https://www.youtube.com/watch?v=L5WWrGMsnpw). I included a few more form ID element code line to the Register section vs what the content creator had on his video.
+This is a landing page that requires users to login or register in order to proceed using standard HTML, CSS, and a small JavaScript file (to assist with the toggle switch from Login to Register). This project inspiration came from Easy Tutorials on YouTube (url: https://www.youtube.com/watch?v=L5WWrGMsnpw). I included a few more form ID element code line to the Register section vs what the content creator had on his video. Icons are hyperlink to their own social media home pages. Registeration form does not save data at this time as a new project will need to be created for that form and linked back to this project. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-   
-
 
 ### Built With
 
@@ -46,7 +46,7 @@ This is a landing page that requires users to login or register in order to proc
 
 
 
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -75,23 +75,22 @@ This is an example of how to list things you need to use the software and how to
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
-<!-- USAGE EXAMPLES -->
+
+<!-- USAGE EXAMPLES
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p> -->
 
 
 
-<!-- ROADMAP -->
+<!-- ROADMAP 
 ## Roadmap
 
 - [] Feature 1
@@ -101,11 +100,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>-->
 
 
 
-<!-- CONTRIBUTING -->
+<!-- CONTRIBUTING
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -119,13 +118,13 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<p align="right">(<a href="#top">back to top</a>)</p>-->
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - Xee M. V. - xeeyang08@gmail.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
