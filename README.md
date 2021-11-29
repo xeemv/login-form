@@ -20,7 +20,7 @@
         <li><a href="#installation">Installation</a></li>-->
       </ul>
     </li>
-    <!--<li><a href="#usage">Usage</a></li>-->
+    <li><a href="#usage">Usage</a></li>
     <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <!--<li><a href="#contributing">Contributing</a></li>-->
    <!-- <li><a href="#license">License</a></li>-->
@@ -80,14 +80,15 @@ This is an example of how to list things you need to use the software and how to
 
 
 
-<!-- USAGE EXAMPLES
+<!--USAGE EXAMPLES-->
 ## Usage
+What worked and things to remember: 
+'''html
+<button type="button" class="toggle-btn" onclick="Login()">Login<button> ''' 
+> This function allows the toggle to switch between Login and Register via the "onclick" element. Will need to set up JS file with functions and vars.
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p> -->
+<p align="right">(<a href="#top">back to top</a>)</p> 
 
 
 
@@ -132,14 +133,14 @@ Don't forget to give the project a star! Thanks again!
 I am starting week 1 of my Front End Software Development boot camp program at <a href="https://www.promineotech.com/">Promineo Tech</a>. We are focusing on JavaScript for the next few weeks. Since I worked ahead on this week's material, I wanted to challenge myself to build a simple Login and Registration form as a personal project.  
 <p>I came across a tutorial on YouTube created in September 2019, by Easy Tutorial, (<a href="https://lnkd.in/eSmvp9Hc">How To Make Login & Registration Form Using HTML And CSS Step By Step</a>) that caught my attention due to the UI appearance. I wanted something that looked pleasant to the user and not simple or plain; this content creator provided me with that while keeping the tutorial under 20 minutes.</p> 
 
-I have learned my lesson not to start a "simple" project at 10PM going forward. I was up until 2:30AM trying to figure out what I was doing wrong via Googling. And spent most of today weeding through my code and the tutorial slowly.
+<p>I have learned my lesson not to start a "simple" project at 10PM going forward. I was up until 2:30AM trying to figure out what I was doing wrong via Googling. And spent most of today weeding through my code and the tutorial slowly.</p>
 
 What I had to figure out during this challenge was: how to place my background image to correctly match up with the video, figure out where I went wrong since my toggle switch was not shifting from Login to Register, and to link my JavaScript file to my HTML correctly.
 <p>Attention to details is so important; that was how I realized I made an error using both "Login" and "Log In" in two different areas of my HTML file or not capitalizing "register". All these little things are still a good reminder to be extra careful and double check my work going forward in my boot camp.
 </p>
 The toggle button really helped me to understand how JavaScript plays an important role with websites and applications. As well as how JavaScript helps with data structure and the interactive response of websites, games, or when building web/mobile applications.
-
-I included a few more form ID element code line to the Register section vs what the content creator had on his video. Icons are hyperlink to their own social media home pages. Registeration form does not save data at this time as a new project will need to be created for that form and linked back to this project. 
+<br>
+<p>I included a few more form ID element code line to the Register section vs what the content creator had on his video. Icons are hyperlink to their own social media home pages. Registeration form does not save data at this time as a new project will need to be created for that form and linked back to this project. </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
