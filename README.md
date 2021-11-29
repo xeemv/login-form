@@ -24,7 +24,7 @@
     <!--<li><a href="#roadmap">Roadmap</a></li>-->
     <!--<li><a href="#contributing">Contributing</a></li>-->
    <!-- <li><a href="#license">License</a></li>-->
-    <li><a href="#Motivation">Motivation</a></li>
+    <li><a href="#Motivation and Learning">Motivation and Learning</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
@@ -32,7 +32,7 @@
 
 <!-- Introduction ABOUT THE PROJECT -->
 # Introduction:
-This is a landing page that requires users to login or register in order to proceed using standard HTML, CSS, and a small JavaScript file (to assist with the toggle switch from Login to Register). This project inspiration came from Easy Tutorials on YouTube (url: https://www.youtube.com/watch?v=L5WWrGMsnpw). I included a few more form ID element code line to the Register section vs what the content creator had on his video. Icons are hyperlink to their own social media home pages. Registeration form does not save data at this time as a new project will need to be created for that form and linked back to this project. 
+This is a landing page that requires users to login or register in order to proceed using standard HTML, CSS, and a small JavaScript file (to assist with the toggle switch from Login to Register). 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -121,15 +121,29 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>-->
 
-<!-- Motivation
+<!-- Motivation and Learning
  What was your motivation?
  Why did you build this project?
  What problem does it solve?
  What did you learn?
  What makes your project stand out? If your project has a lot of features, consider adding a "Features" section and listing them here.-->
  
-## Motivation
-I am starting week 1 of my Front End Software Development boot camp program at <a href="https://www.promineotech.com/">Promineo Tech</a>. We will be focusing on JavaScript for the next few weeks. I worked ahead on this week's material and wanted to challenge myself to build a simple Login and Registration form.  I came across a tutorial on YouTube that caught my attention due to the UI appearance. I wanted something that looked pleasant to the user and not simple or plain; this content creator provided me with that while keeping the tutorial under 20 minutes. 
+## Motivation and Learning
+I am starting week 1 of my Front End Software Development boot camp program at <a href="https://www.promineotech.com/">Promineo Tech</a>. We are focusing on JavaScript for the next few weeks. Since I worked ahead on this week's material, I wanted to challenge myself to build a simple Login and Registration form.  I came across a tutorial on YouTube created in September 2019, by Easy Tutorial, (<a href="https://lnkd.in/eSmvp9Hc">How To Make Login & Registration Form Using HTML And CSS Step By Step</a>) that caught my attention due to the UI appearance. I wanted something that looked pleasant to the user and not simple or plain; this content creator provided me with that while keeping the tutorial under 20 minutes. 
+ 
+I included a few more form ID element code line to the Register section vs what the content creator had on his video. Icons are hyperlink to their own social media home pages. Registeration form does not save data at this time as a new project will need to be created for that form and linked back to this project. 
+
+I have learned my lesson not to start a "simple" project at 10PM going forward. I was up until 2:30AM trying to figure out what I was doing wrong via Googling. And spent most of today weeding through my code and the tutorial slowly.
+
+What I had to figure out during this challenge was: how to place my background image to correctly match up with the video, figure out where I went wrong since my toggle switch was not shifting from Login to Register, and to link my JavaScript file to my HTML correctly.
+ 
+Attention to details is so important; that was how I realized I made an error using both "Login" and "Log In" in two different areas of my HTML file or not capitalizing "register". All these little things are still a good reminder to be extra careful and double check my work going forward in my boot camp.
+ 
+The toggle button really helped me to understand how JavaScript plays an important role with websites and applications. As well as how JavaScript helps with data structure and the interactive response of websites, games, or when building web/mobile applications.
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
