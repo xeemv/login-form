@@ -154,8 +154,7 @@ I am starting week 1 of my Front End Software Development boot camp program at <
 <p>I have learned my lesson not to start a "simple" project at 10PM going forward. I was up until 2:30AM trying to figure out what I was doing wrong via Googling. And spent most of today weeding through my code and the tutorial slowly.</p>
 
 What I had to figure out during this challenge was: how to place my background image to correctly match up with the video, figure out where I went wrong since my toggle switch was not shifting from Login to Register, and to link my JavaScript file to my HTML correctly.
-<p>Attention to details is so important; that was how I realized I made an error using both "Login" and "Log In" in two different areas of my HTML file or not capitalizing "register". All these little things are still a good reminder to be extra careful and double check my work going forward in my boot camp.
-</p>
+<p>Attention to details is so important; that was how I realized I made an error using both "Login" and "Log In" in two different areas of my HTML file or not capitalizing "register". All these little things are still a good reminder to be extra careful and double check my work going forward in my boot camp.</p>
 <p>The toggle button really helped me to understand how JavaScript plays an important role with websites and applications. As well as how JavaScript helps with data structure and the interactive response of websites, games, or when building web/mobile applications.</p>
 <p>I included a few more form ID element code line to the Register section vs what the content creator had on his video. Icons are hyperlink to their own social media home pages. Registeration form does not save data at this time as a new project will need to be created for that form and linked back to this project. </p>
 
