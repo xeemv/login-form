@@ -1,11 +1,13 @@
 *{
     margin: 0;
     padding: 0;
-        font-family: sans-serif;
+    font-family: sans-serif;
 }
 hero {
     height: 100%;
     width: 100%;  
+    background-color: var(--primary-color);
+    background-color: var(--secondary-color);
 }
 body{
     background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(./images/mountain.jpg);
@@ -13,6 +15,14 @@ body{
     background-attachment: fixed;
     background-size: cover;
     position: center;
+}
+:root{ /*formating for the entire page colors then add to .hero using var() function */
+    --primary-color: #edf2fc; /*anywhere else that has this color must be changed to var()  */
+    --secondary-color: #212121; /*anywhere else that has this color must be changed to var()  */
+}
+.dark-theme {
+    --primary-color: #edf2fc;
+    --secondary-color: #212121;
 }
 #sun-icon{
     width: 30px;
@@ -23,7 +33,7 @@ body{
     height: 680px;
     position: relative;
     margin: 6% auto;
-    background: #fff;
+    background: var(--primary-color);
     padding: 5px;
     overflow: hidden;
 }

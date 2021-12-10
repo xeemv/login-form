@@ -9,6 +9,7 @@ function Register () {
 }
 function Login () {
   x.style.left = "50px";
-  y.style.left = "450px";
-  z.style.left = "0px";
+  y.style.left = "450px";
+  z.style.left = "0px";
 }
+
